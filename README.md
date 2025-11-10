@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there+👋%2C+I'm+Suraj+Sharma!;Full+Stack+Developer+%7C+AI%2FML+Learner;Innovator+%7C+Engineer+%7C+Problem+Solver;Let's+build+the+future+together+⚡" alt="Typing SVG" />
-</p>
-
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/💻_Engineer-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖_AI%2FML_Practitioner-9333ea?style=for-the-badge&logo=pytorch&logoColor=white" />

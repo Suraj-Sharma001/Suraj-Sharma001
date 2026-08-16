@@ -17,7 +17,7 @@
 
 > 💡 *“Code is not just logic — it’s leverage.”*
 
-I’m **Suraj Sharma**, a **3rd-year Computer Science & Engineering student** passionate about building  
+I’m **Suraj Sharma**, a **Final-year Computer Science & Engineering student** passionate about building  
 **real-world, scalable, and impactful software systems**.
 
 - 🚀 I focus on **shipping projects**, not just learning concepts  

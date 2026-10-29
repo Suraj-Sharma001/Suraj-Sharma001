@@ -1,22 +1,12 @@
-<!-- ============================================================
-  SETUP (delete this block after):
-  1. Create a PUBLIC repo named exactly your GitHub username (e.g. suraj/suraj)
-  2. Put this file in it as README.md
-  3. Find & replace:  YOUR_USERNAME   -> your GitHub username
-                      YOUR_LINKEDIN    -> your LinkedIn handle
-                      YOUR_EMAIL       -> your email
-  4. Update repo links in the Projects section
-============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Suraj%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Systems%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Final-year+CSE+%40+Graphic+Era+Hill+University;Building+AI+gateways+%26+full-stack+products;Grinding+DSA+%7C+Java+%7C+System+Design;Open+to+SDE+internships+%26+full-time+roles)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+![Profile Views](https://komarev.com/ghpvc/?username=Suraj-Sharma001&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Suraj-sharma-99ab95270)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:surajsharma60923@gmail.com)
 
 </div>
 
@@ -29,7 +19,7 @@ public class Suraj {
     String role     = "B.Tech CSE Student (Final Year)";
     String college  = "Graphic Era Hill University";
     String focus[]  = {"Full-Stack", "AI Infrastructure", "Applied ML", "DSA"};
-    String goal     = "SDE role at a product-based company";
+    String goal     = "Build scalable, reliable software that solves real problems";
     boolean openToWork = true;
 }
 ```
@@ -78,24 +68,29 @@ public class Suraj {
 | **Architecture** | Microservices, JWT + API keys + RBAC, Zod validation, Helmet |
 | **Stack** | `Next.js` `Tailwind` `Recharts` `Node.js` `Express` `PostgreSQL` `Prisma` `Redis` `Docker` |
 
-🔗 [Repository](https://github.com/YOUR_USERNAME/aegis)
+🔗 [Repository](https://github.com/Suraj-Sharma001/Aegis)
 
 ---
 
-### 🎭 Face Anti-Spoofing System
-> Detects real faces vs. spoof attempts (photos / screens) in real time.
+### ⚙️ Vertex Compiler
+> A complete stack-based compiler for the **Vertex** programming language, written in **C**, from source code to bytecode running on a custom virtual machine.
 
-- Trained **YOLOv8-nano** on a **custom-built dataset**
-- Tuned confidence thresholds to balance false accepts vs. false rejects
-- Desktop app with a **Tkinter GUI** for live inference
+| | |
+|---|---|
+| **Pipeline** | Lexer → Parser → AST → Semantic Analysis → Bytecode Generation → VM Execution |
+| **Parser** | Recursive descent, enforcing the full grammar with correct operator precedence |
+| **Virtual Machine** | Stack-based VM with 16 opcodes covering arithmetic, I/O and control flow |
+| **Semantic Analysis** | Symbol table that tracks variable declarations and catches errors |
+| **Usability** | Interactive mode, or compile and run from the command line |
+| **Errors** | Detailed error messages at every compilation stage |
 
-**Stack:** `Python` `YOLOv8` `Tkinter`
+**Stack:** `C` `Compiler Design` `Virtual Machines`
 
-🔗 [Repository](https://github.com/YOUR_USERNAME/face-anti-spoofing)
+🔗 [Repository](https://github.com/Suraj-Sharma001/Vertex)
 
 ---
 
-### 💼 JobVerse: MERN Job Portal
+### 💼 JobSphere: MERN Job Portal
 > A deployed full-stack job portal, not just a localhost demo.
 
 - Handled real deployment problems: **CORS**, environment variables on **Render**, **axios interceptors** for auth
@@ -103,7 +98,7 @@ public class Suraj {
 
 **Stack:** `MongoDB` `Express` `React` `Node.js`
 
-🔗 [Repository](https://github.com/YOUR_USERNAME/jobverse) · 🌐 [Live Demo](https://your-live-link.com)
+🔗 [Repository](https://github.com/Suraj-Sharma001/JobSphere) · 🌐 [Live Demo](https://jobsphere1.onrender.com/)
 
 ---
 
@@ -111,12 +106,12 @@ public class Suraj {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Suraj-Sharma001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Sharma001&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Suraj-Sharma001&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-Sharma001&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -137,9 +132,9 @@ public class Suraj {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Suraj-sharma-99ab95270)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajsharma60923@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sharma-suraj_001)
 
 *If you're hiring or want to build something together, my inbox is open.*
 

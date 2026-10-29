@@ -1,123 +1,148 @@
+<!-- ============================================================
+  SETUP (delete this block after):
+  1. Create a PUBLIC repo named exactly your GitHub username (e.g. suraj/suraj)
+  2. Put this file in it as README.md
+  3. Find & replace:  YOUR_USERNAME   -> your GitHub username
+                      YOUR_LINKEDIN    -> your LinkedIn handle
+                      YOUR_EMAIL       -> your email
+  4. Update repo links in the Projects section
+============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Suraj%20Sharma&fontSize=45&fontAlignY=38&desc=Engineer%20•%20AI/ML%20Builder%20•%20Competitive%20Programmer&descAlignY=55&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Suraj%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Systems%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Final-year+CSE+%40+Graphic+Era+Hill+University;Building+AI+gateways+%26+full-stack+products;Grinding+DSA+%7C+Java+%7C+System+Design;Open+to+SDE+internships+%26+full-time+roles)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/💻_Engineer-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/🤖_AI%2FML_Builder-9333ea?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/⚔️_Competitive_Programmer-22c55e?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/🌐_Creative_Coder-f97316?style=for-the-badge&logo=react&logoColor=white" />
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## 🧠 About Me  
+## 🧑‍💻 About Me
 
-> 💡 *“Code is not just logic — it’s leverage.”*
+```java
+public class Suraj {
+    String role     = "B.Tech CSE Student (Final Year)";
+    String college  = "Graphic Era Hill University";
+    String focus[]  = {"Full-Stack", "AI Infrastructure", "Applied ML", "DSA"};
+    String goal     = "SDE role at a product-based company";
+    boolean openToWork = true;
+}
+```
 
-I’m **Suraj Sharma**, a **Final-year Computer Science & Engineering student** passionate about building  
-**real-world, scalable, and impactful software systems**.
-
-- 🚀 I focus on **shipping projects**, not just learning concepts  
-- 🧩 I enjoy blending **DSA, AI, System Design, and Core CS**  
-- 🌍 Long-term goal: **Build a global-scale tech startup**
-
----
-
-## 🏗️ Selected Projects  
-
-🚀 **EduLift**  
-> A scalable **Next.js + Supabase** learning platform with authentication, role-based access, and dashboards  
-
-🧠 **AI Anti-Spoofing Attendance System**  
-> Face liveness detection system using **Python, OpenCV, and Machine Learning**  
-
-🌐 **WebNova – Custom Web Server**  
-> A low-level **custom web server** built from scratch, handling HTTP requests, routing, and static content delivery  
-
-⚙️ **Vertex – Custom Programming Language**  
-> Designed and implemented a **custom programming language** with lexer, parser, syntax validation, and compiler design principles  
-
-💼 **JobVerse**  
-> Full-stack **MERN job portal** connecting recruiters and students with secure authentication  
+- 🔭 Building **Aegis**, an enterprise AI gateway with a prompt firewall, semantic caching and audit trail (my final-year major project)
+- 🧠 Shipped ML projects that run end to end, from custom dataset to GUI
+- 🚀 Deployed full-stack apps and debugged real production issues (CORS, env config, auth flows)
+- 🧩 Practising DSA and competitive programming in **Java**
+- 📫 Best way to reach me: LinkedIn or email, links above
 
 ---
 
-## 🌱 Currently Learning  
-
-- 🤖 **Generative AI & LLM Fine-Tuning**  
-- 🧠 **System Design (Scalability, Trade-offs, Architecture)**  
-- ⚔️ **Advanced DSA for Competitive Programming & Interviews**
-
----
-
-## 💎 Tech Stack  
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+**Languages**
 
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Java](https://skillicons.dev/icons?i=java,py,js,ts,html,css)
 
-### 🧰 Tools & Databases  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,redis)
+
+**Tools & DevOps**
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman)
 
 </div>
 
 ---
 
-## ⚡ GitHub Analytics  
+## 🚀 Featured Projects
+
+### 🛡️ Aegis: Enterprise AI Gateway & Governance Platform
+> A trust layer that sits between AI apps and multiple LLM providers (OpenAI, Gemini, Claude, local Llama).
+
+| | |
+|---|---|
+| **What it does** | Unified LLM access, prompt-injection firewall, semantic caching, cost/usage tracking, PII governance, audit trail |
+| **Highlights** | Hybrid semantic cache (embedding + keyword scoring), BYOK with encrypted per-org provider keys, team-based RBAC enforced on the backend |
+| **Architecture** | Microservices, JWT + API keys + RBAC, Zod validation, Helmet |
+| **Stack** | `Next.js` `Tailwind` `Recharts` `Node.js` `Express` `PostgreSQL` `Prisma` `Redis` `Docker` |
+
+🔗 [Repository](https://github.com/YOUR_USERNAME/aegis)
+
+---
+
+### 🎭 Face Anti-Spoofing System
+> Detects real faces vs. spoof attempts (photos / screens) in real time.
+
+- Trained **YOLOv8-nano** on a **custom-built dataset**
+- Tuned confidence thresholds to balance false accepts vs. false rejects
+- Desktop app with a **Tkinter GUI** for live inference
+
+**Stack:** `Python` `YOLOv8` `Tkinter`
+
+🔗 [Repository](https://github.com/YOUR_USERNAME/face-anti-spoofing)
+
+---
+
+### 💼 JobVerse: MERN Job Portal
+> A deployed full-stack job portal, not just a localhost demo.
+
+- Handled real deployment problems: **CORS**, environment variables on **Render**, **axios interceptors** for auth
+- Complete flow for job listings, applications and user accounts
+
+**Stack:** `MongoDB` `Express` `React` `Node.js`
+
+🔗 [Repository](https://github.com/YOUR_USERNAME/jobverse) · 🌐 [Live Demo](https://your-live-link.com)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-Sharma001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Sharma001&theme=tokyonight&hide_border=true&border_radius=18" height="180em"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-Sharma001&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 </div>
 
 ---
 
-## 🧠 Philosophy  
+## 🎯 Currently
 
-> ✨ *“Learning never exhausts the mind — it only ignites it.”*  
-> — **Leonardo da Vinci**
+| | |
+|---|---|
+| 🔨 **Building** | Aegis, adding governance and observability features |
+| 📚 **Learning** | System design, low-level design, advanced DSA |
+| 🏆 **Practising** | Competitive programming, ML competitions, coding assessments |
+| 💼 **Looking for** | SDE internships / full-time roles (product-based companies) |
 
 ---
 
-## 🌐 Connect With Me  
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/Suraj-sharma-99ab95270">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:surajsharma60923@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/Suraj-Sharma001">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suraj-Sharma001&label=Profile%20Views&color=0A66C2&style=flat-square"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+*If you're hiring or want to build something together, my inbox is open.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
